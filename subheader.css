@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+#subheader {
+  width: 100%;
+  height: 40px;
+  
+}
+
+#subheadercont {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1.5px rgba(128, 128, 128, 0.212) solid;
+}
+
+#subheaderitens {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 25px;
+  display: flex;
+  font-size: 0.8rem;
+  color: gray;
+  width: 100;
+  
+}
+  
+ 
+.telefone {
+  width: 13px;
+  filter: grayscale(100%) contrast(0.1);
+}
+
+.email {
+  width: 14.5px;
+  filter: grayscale(100%) contrast(0.1);
+  
+ 
+}
+
+li {
+  align-items: center;
+}
+
+li a {
+  text-decoration: none;
+  color: gray;
+  
+  
+}
+
+i {
+  color: gray;
+  font-size: 0.9rem;
+}
+
+.sociais_buttons img {
+  width: 20px;
+  filter: contrast(5);
+}
+
