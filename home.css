@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+#home {
+  width:100% ;
+  height: 40%; 
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.conteudohome {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+.logohome {
+    width: 250px;
+    height: 200px;
+}
+
+.textoshome {
+  margin-right: 20px;
+}
+
+
+.titulohome {
+  color: #f57700;
+  margin-bottom: 15px;
+}
